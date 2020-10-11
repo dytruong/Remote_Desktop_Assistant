@@ -9,4 +9,4 @@
   + Folder RDPAssistance contains Remote Desktop Assistant file that will be created by end user in step 2 (For ex: computername_username.msrcincident). This was shared invisibly.
   + Folder Remote Assistant contains file Remoteassistant.bat that will be run by end user. Just give them the path (\\computername\Remoteassistant) and double-click to run it and then you will see the Remote Desktop invitation was created in the folder RDPAssistance.
   + Folder Source contains main ps1 file that help script works. This was shared invisibly.
-- For more detailed instruction, please watch tutorial here - 
+- For more detailed instruction, please watch tutorial here - https://youtu.be/Y6n7oIuDUmM
